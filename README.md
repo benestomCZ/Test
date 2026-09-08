@@ -1,2 +1,2 @@
 # Test
-Začátek Testu
+Testovací projekt Ahoj.
